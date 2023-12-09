@@ -1,1 +1,4 @@
-Contents include a colab notebook regarding the analysis of NFHS 5 dataset.
+Contents include a colab notebook regarding the housing price dataset Kaggle competition. 
+It includes :
+- preprocessing
+- ML models 
